@@ -1,5 +1,5 @@
 | Comandi | Lettere associate |
-| --- | --- |
+| :--- | :---: |
 | Avanti Sinistra | A |
 | Avanti |  U | 
 | Avanti Destra  |  F | 
